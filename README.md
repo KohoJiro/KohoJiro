@@ -22,4 +22,4 @@ Welcome to my digital lab. I'm a tech-focused professional bridging the gap betw
 
 ---
 
-*“Persistence is the best firewall.”* [LinkedIn](www.linkedin.com/in/justingerbertcyber) | [HTB Profile](https://app.hackthebox.com/public/users/2310276)
+*“Persistence is the best firewall.”* [LinkedIn](www.linkedin.com/in/justingerbertcyber) 
