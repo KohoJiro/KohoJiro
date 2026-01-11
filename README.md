@@ -16,10 +16,6 @@ Welcome to my digital lab. I'm a tech-focused professional bridging the gap betw
 - **Security:** Nmap, Wireshark, Burp Suite (Learning Phase)
 - **Linguistic Focus:** Japanese Language Studies (Current: JPN 102)
 
-### 📈 Stats & Activity
-- ⚡ **LinkedIn Momentum:** Recently achieved a 7,300% engagement spike networking within the Cyber community.
-- 🌱 **Learning in Public:** Documenting the transition from physical hardware builds to virtualized security environments.
-
 ---
 
 *“Persistence is the best firewall.”* [LinkedIn](www.linkedin.com/in/justingerbertcyber) 
