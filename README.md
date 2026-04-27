@@ -8,7 +8,7 @@ Welcome to my digital lab. I'm a tech-focused professional bridging the gap betw
 
 ### 🚀 Current Projects
 - **Project Karasu:** Repurposing hardware into a headless Linux server (Ubuntu) to host personal documentation and secure storage.
-- **Google Cybersecurity Professional Certificate:** 🎓 [Final Labs Phase]
+- **Google Cybersecurity Professional Certificate:** 🎓 April-2026
 - **TryHackMe / HackTheBox:** Active learner on the Junior Pentester paths.
 
 ### 🛠️ Tech Stack & Skills
